@@ -48,6 +48,5 @@ else:
 # Check if the player has the treasure in their inventory
 if "Treasure" in inventory:
     print("Congratulations! You have the treasure. What do you want to do next?")
-    # Add more choices here
 else:
     print("You don't have the treasure. Game Over.")
